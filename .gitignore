@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+# temp stuff
+html_entities.txt
+accidentals.html

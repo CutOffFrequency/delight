@@ -1,0 +1,14 @@
+{
+  "name": "delight",
+  "version": "1.0.0",
+  "description": "library for musical analysis and composition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Waters",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.0-beta"
+  }
+}
